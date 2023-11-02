@@ -1,0 +1,22 @@
+{
+  "name": "vite-tailwind-alpine",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "alpinejs": "^3.4.1",
+    "autoprefixer": "^10.3.5",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.15",
+    "vite": "^2.5.4"
+  },
+  "keywords": [
+    "tailwindcss",
+    "alpinejs",
+    "vite"
+  ],
+  "description": "Vite + TailwindCSS + AlpineJS"
+}
